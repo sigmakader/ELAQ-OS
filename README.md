@@ -5,6 +5,6 @@ an OS built by EL4Q
 
 1 *********cancelled*********
 
-2 ***********still in progress*************
+2 ***********still in progress***********
 
 3 *******too shy to be dropped*******
